@@ -1,0 +1,12 @@
+[submodule "radare2"]
+	path = radare2
+	url = https://github.com/radareorg/radare2
+[submodule "bgrep"]
+	path = bgrep
+	url = https://github.com/tmbinc/bgrep
+[submodule "cpu_rec"]
+	path = cpu_rec
+	url = https://github.com/thezeroalpha/cpu_rec
+[submodule "firmxray"]
+	path = firmxray
+	url = https://github.com/thezeroalpha/FirmXRay

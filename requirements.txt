@@ -1,0 +1,7 @@
+bincopy==17.14.0
+binwalk==2.3.3+a555eb1
+capstone==4.0.2
+pycryptodome==3.16.0
+r2pipe==1.7.4
+selenium==4.8.0
+SQLAlchemy==2.0.0rc1
