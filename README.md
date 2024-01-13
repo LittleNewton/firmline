@@ -4,10 +4,9 @@ Associated paper (Master's thesis) [is on GitHub](https://github.com/thezeroalph
 ## Prerequisites
 
 ```sh
+git submodule update --init
+cd binwalk && python setup.py install && cd ..
 pip install -r requirements.txt
-git clone --depth 1 https://github.com/ReFirmLabs/binwalk.git /tmp/binwalk \
-        && cd binwalk \
-        && python setup.py install
 (cd bgrep && sudo make install)
 (cd radare2 && sys/install.sh)
 ```

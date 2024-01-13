@@ -10,3 +10,6 @@
 [submodule "firmxray"]
 	path = firmxray
 	url = https://github.com/thezeroalpha/FirmXRay
+[submodule "binwalk"]
+	path = binwalk
+	url = ./binwalk
