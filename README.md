@@ -1,5 +1,4 @@
-# FirmLine: a Generic Pipeline for Large-Scale Analysis Of Non-Linux Firmware
-Associated paper (Master's thesis) [is on GitHub](https://github.com/thezeroalpha/msc-thesis).
+# FirmLine: a Generic Pipeline for Large-Scale Analysis of Non-Linux Firmware
 
 ## Prerequisites
 
